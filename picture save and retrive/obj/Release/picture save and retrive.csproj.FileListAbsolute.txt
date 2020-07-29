@@ -1,0 +1,12 @@
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Release\picture save and retrive.exe.config
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Release\picture save and retrive.exe
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Release\picture save and retrive.pdb
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Release\picture_save_and_retrive.Form1.resources
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Release\picture_save_and_retrive.Properties.Resources.resources
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Release\picture save and retrive.csproj.GenerateResource.cache
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Release\picture save and retrive.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Release\picture save and retrive.exe
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Release\picture save and retrive.pdb
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Release\picture save and retrive.csprojAssemblyReference.cache
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Release\Database1.mdf
+C:\Users\ammar\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Release\Database1_log.ldf

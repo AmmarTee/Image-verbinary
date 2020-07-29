@@ -1,0 +1,18 @@
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\bin\Debug\picture save and retrive.exe.config
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\bin\Debug\picture save and retrive.exe
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\bin\Debug\picture save and retrive.pdb
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.csprojResolveAssemblyReference.cache
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\obj\Debug\picture_save_and_retrive.Form1.resources
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\obj\Debug\picture_save_and_retrive.Properties.Resources.resources
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.csproj.GenerateResource.Cache
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.exe
+C:\Users\Thepainer\Documents\Visual Studio 2013\Projects\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.pdb
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Debug\picture save and retrive.exe.config
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.exe
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.pdb
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Debug\picture save and retrive.exe
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\bin\Debug\picture save and retrive.pdb
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.csprojResolveAssemblyReference.cache
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Debug\picture_save_and_retrive.Form1.resources
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Debug\picture_save_and_retrive.Properties.Resources.resources
+C:\Users\Thepainer\Desktop\VP ASSIGNMENT\picture save and retrive\picture save and retrive\obj\Debug\picture save and retrive.csproj.GenerateResource.Cache
